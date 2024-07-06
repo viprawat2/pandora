@@ -25,8 +25,6 @@ This is a minimalist e-commerce website built with Nextjs and CSS. You can find 
 - [x] Categories
 - [x] Home page
 
-## 📸 Screenshots of the project:
-
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
