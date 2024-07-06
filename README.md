@@ -30,26 +30,22 @@ This is a minimalist e-commerce website built with Nextjs and CSS. You can find 
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-<img src='https://github.com/sepidsoroush/next-search-movies/assets/105380339/33d4caa4-4ad8-479c-966a-13f4c9a1afcf'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Shopping Cart 🛒</h3>
 
 <div align='center'>
-<img src='https://github.com/sepidsoroush/next-search-movies/assets/105380339/2fad09d4-8219-4057-acdf-12facaeddf45'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Categories Page 🛍️</h3>
 
 <div align='center'>
-<img src='https://github.com/sepidsoroush/next-search-movies/assets/105380339/5bafe663-9879-4bf4-9c68-fb083e9425bf'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Product Page 🎁</h3>
 
 <div align='center'>
-<img src='https://github.com/sepidsoroush/next-search-movies/assets/105380339/d8dc0ff0-427c-409f-9b44-30871c0de9c8'/>
 </div>
