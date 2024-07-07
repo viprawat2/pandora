@@ -6,8 +6,8 @@ This is a minimalist e-commerce website built with Nextjs and CSS. You can find 
 
 How to run:
 
-yarn install 
-yarn dev
+`yarn install`
+`yarn dev`
 
 ## Features
 
