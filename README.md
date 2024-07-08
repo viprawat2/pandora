@@ -2,6 +2,9 @@
 
 ## About The Project
 
+[demo link](https://main--stalwart-bienenstitch-66c43d.netlify.app/)
+https://main--stalwart-bienenstitch-66c43d.netlify.app/
+
 The project is built with nextjs, a reactjs framerwork. It requires nodejs environment installed on the machine.
 This is a minimalist e-commerce website built with Nextjs and CSS. You can find different products in each category and add them into your shopping cart.
 
